@@ -161,7 +161,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </h3>
 
 - Make sure you are in the admin panel
-- Select Manage tab -> SLA -> Add New SLA Plan (We are creating 3)
+- Select Manage tab --> SLA --> + Add New SLA Plan (We are creating 3)
 	- Name: SEV-A 			
 	- Grace Period: 1
 	- Schedule dropdown menu: 24/7
@@ -193,7 +193,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </h3>
 
 -  Make sure you are in the admin panel
-- Select Manage tab -> Help Topics -> Add New Help Topic (We will be adding 4)
+- Select Manage tab --> Help Topics --> Add New Help Topic (We will be adding 4)
 	- Business Critical Outage
 	- Personal Computer Issues
 	- Equipment Request
@@ -205,4 +205,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-🎉Congratulations! You have set up osTicket succesfully
+🎉Congratulations! You have set up osTicket succesfully🎉 Click [here](https://github.com/jnoriega232/ticket-lifecycle) to move on to the final part of this tutorial!
