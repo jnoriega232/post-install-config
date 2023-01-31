@@ -94,7 +94,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 	- Name: Jane Doe
 	- Email : jane.doe@osticket.com
 	- Username: jane.doe
-	- Click set password and uncheck box that says "send the agent a password reset email
+	- Click set password and uncheck box that says "send the agent a password reset email"
 		- Set your password to anything you like
 		- uncheck box that says "require password change at next login"
 		- Select Set
