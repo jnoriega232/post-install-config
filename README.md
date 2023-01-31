@@ -28,7 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Steps</h2>
 
-<h3>First: Open osTicket and log in using credentials from installation tutorial </h3>
+<h3>Step 1: Open osTicket and log in using credentials from installation tutorial</h3>
 
 - If you need help installing osTicket, please see my tutorial [here](https://github.com/jnoriega232/osticket-prereqs)
 
@@ -36,7 +36,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/YQMB5ER.png" height="50%" width="50%" alt="Azure Free Account"/>	
 
 
-<h3>Next: Configure Roles </h3>
+<h3>Step 2: Configure Roles</h3>
 
 - Make sure you are in the admin panel (top right shows the opposite of which panel you are in)
 	- If the top right says "Agent Panel" you are in the admin panel
@@ -50,7 +50,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 
-<h3>Next: Configure Departments</h3>
+<h3>Step 3: Configure Departments</h3>
 
 - Make sure you are in the admin panel
 - Select the Agents tab --> Departments --> + Add New Department 
@@ -63,8 +63,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 
-<h3>Next:  Configure Teams
-</h3>
+<h3>Step 4: Configure Teams</h3>
 
 - Make sure you are in the admin panel
 - Select the Agents tab --> Teams --> + Add New Team
@@ -76,7 +75,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/QPcsh6r.png" height="50%" width="50%" alt="Azure Free Account"/> <img src="https://i.imgur.com/B99CkdV.png" height="50%" width="50%" alt="Azure Free Services"/>
 </p>
 
-<h3>Next: Allow anyone to create tickets</h3>
+<h3>Step 5: Allow anyone to create tickets</h3>
 
  Make sure you are in the admin panel
 - Select the Settings --> User Settings
@@ -87,7 +86,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/6a2rVoz.png" height="50%" width="50%" alt="Azure Free Account"/>		
 
 
-<h3>Next: Configure Agents</h3>
+<h3>Step 6: Configure Agents</h3>
 
 -  Make sure you are in the admin panel
 - Select the Agents tab --> + Add New Agents
@@ -132,8 +131,7 @@ This tutorial outlines the post-install configuration of the open-source help de
  
      
 
-<h3>Next: Configure Users
-</h3>
+<h3>Step 7: Configure Users</h3>
 
 - Make sure you are in the agent panel
 	- If the top right says "Admin Panel" you are in the agent panel
@@ -157,8 +155,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p align="center">
 <img src="https://i.imgur.com/J7hvpl0.png" height="50%" width="50%" alt="Azure Free Account"/>		
 
-<h3>Next:  Configure Service Level Agreements (SLA)
-</h3>
+<h3>Step 8: Configure Service Level Agreements (SLA)</h3>
 
 - Make sure you are in the admin panel
 - Select Manage tab --> SLA --> + Add New SLA Plan (We are creating 3)
@@ -189,8 +186,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-<h3>Next:   Configure Help Topics
-</h3>
+<h3>Finally: Configure Help Topics</h3>
 
 -  Make sure you are in the admin panel
 - Select Manage tab --> Help Topics --> Add New Help Topic (We will be adding 4)
